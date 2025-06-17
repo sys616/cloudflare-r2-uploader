@@ -1,5 +1,8 @@
 # Cloudflare R2 File Uploader
 
+![Screenshot](screenshot.png)
+
+
 واجهة رفع ملفات عصرية إلى Cloudflare R2 مع دعم العربية والإنجليزية.
 
 ---
